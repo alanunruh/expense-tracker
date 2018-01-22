@@ -17,6 +17,8 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 # Use twitter bootstrap
 gem 'bootstrap-sass'
+# Use React.js for views
+gem 'react-rails'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
